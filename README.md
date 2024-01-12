@@ -1,20 +1,20 @@
 # github-final-project
 
-A brief description of what this porject does and who it's for.
+A brief description of what this project does and who it's for.
 
 ## Description
 
-Provide a more detailed introduction to your project. Include the main features, the advantages of your project, and its current development status.
+Need a more detailed introduction of this project. Include the main features, the advantages of this project, and its current development status.
 
 ## Getting Started
 
 ### Dependencies
 
-List any libraries, tools, or frameworks needed to run your project.
+List libraries, tools, or frameworks needed to run this project.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development environment running.
+A step by step series of examples that tell how to get a development environment running.
 
 '''bash
 git clone
